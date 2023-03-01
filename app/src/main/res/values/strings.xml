@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sneaker_icon">sneaker</string>
+    <string name="about_text">О нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">Sneaker</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="good_1">Товар1</string>
+    <string name="good_2">Товар2</string>
+
+    <string name="info_1">Компания занимается продажей кроссовок</string>
+    <string name="info_2">Наш адрес: пр. Вернадского, 78, Москва</string>
+
+</resources>
