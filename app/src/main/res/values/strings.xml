@@ -7,8 +7,11 @@
     <string name="logo_of_app_2">App</string>
     <string name="good_1">Товар1</string>
     <string name="good_2">Товар2</string>
+    <string name="success">Успешно</string>
 
     <string name="info_1">Компания занимается продажей кроссовок</string>
     <string name="info_2">Наш адрес: пр. Вернадского, 78, Москва</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
